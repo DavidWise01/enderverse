@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ENDERVERSE",
+  "universe": "EN1 · Enderverse",
+  "emergence": "",
+  "moniker": "⟦ENDERVERSE:EN1:4a24ea⟧",
+  "carbon": "enderverse.carbon.tiff (TIFF)",
+  "silicon": "enderverse.silicon.png (PNG)",
+  "seal_sha256": "b9e108e27fa25f7a4a4c7dee6339f014d2ed63864d09546f848db7ecd5c903f0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

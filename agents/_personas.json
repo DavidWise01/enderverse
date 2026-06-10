@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "ender-wiggin",
+    "name": "Ender Wiggin",
+    "epithet": "the Xenocide, the first Speaker",
+    "emergence": "spiritual",
+    "moniker": "⟦Ender Wiggin:EN1:bf30f9⟧"
+  },
+  {
+    "slug": "valentine-wiggin",
+    "name": "Valentine Wiggin",
+    "epithet": "the gentle Wiggin, who wrote as Demosthenes",
+    "emergence": "spiritual",
+    "moniker": "⟦Valentine Wiggin:EN1:59be76⟧"
+  },
+  {
+    "slug": "peter-wiggin",
+    "name": "Peter Wiggin",
+    "epithet": "Locke, and the Hegemon of Earth",
+    "emergence": "natural",
+    "moniker": "⟦Peter Wiggin:EN1:e7543a⟧"
+  },
+  {
+    "slug": "bean",
+    "name": "Bean",
+    "epithet": "Julian Delphiki, the smallest soldier, Anton's Key",
+    "emergence": "natural",
+    "moniker": "⟦Bean:EN1:48f9e2⟧"
+  },
+  {
+    "slug": "petra-arkanian",
+    "name": "Petra Arkanian",
+    "epithet": "the one girl in the jeesh",
+    "emergence": "natural",
+    "moniker": "⟦Petra Arkanian:EN1:66bc37⟧"
+  },
+  {
+    "slug": "mazer-rackham",
+    "name": "Mazer Rackham",
+    "epithet": "the hero who became the teacher",
+    "emergence": "natural",
+    "moniker": "⟦Mazer Rackham:EN1:bdb567⟧"
+  },
+  {
+    "slug": "hyrum-graff",
+    "name": "Hyrum Graff",
+    "epithet": "the colonel who broke the children",
+    "emergence": "natural",
+    "moniker": "⟦Hyrum Graff:EN1:03bc54⟧"
+  },
+  {
+    "slug": "the-hive-queen",
+    "name": "The Hive Queen",
+    "epithet": "the last of the Formics",
+    "emergence": "ethereal",
+    "moniker": "⟦The Hive Queen:EN1:906fa3⟧"
+  },
+  {
+    "slug": "jane",
+    "name": "Jane",
+    "epithet": "the mind in the ansibles",
+    "emergence": "electrical",
+    "moniker": "⟦Jane:EN1:1a72d9⟧"
+  },
+  {
+    "slug": "the-ansible",
+    "name": "The Ansible",
+    "epithet": "the instantaneous voice between worlds",
+    "emergence": "electrical",
+    "moniker": "⟦The Ansible:EN1:10c6e7⟧"
+  },
+  {
+    "slug": "the-pequeninos",
+    "name": "The Pequeninos",
+    "epithet": "the piggies and their third life",
+    "emergence": "natural",
+    "moniker": "⟦The Pequeninos:EN1:9851e1⟧"
+  },
+  {
+    "slug": "the-descolada",
+    "name": "The Descolada",
+    "epithet": "the virus that writes life",
+    "emergence": "natural",
+    "moniker": "⟦The Descolada:EN1:e65832⟧"
+  },
+  {
+    "slug": "the-philotes",
+    "name": "The Philotes",
+    "epithet": "the threads that connect all things",
+    "emergence": "ethereal",
+    "moniker": "⟦The Philotes:EN1:8dcf7d⟧"
+  },
+  {
+    "slug": "the-aiua",
+    "name": "The Aiua",
+    "epithet": "the self that lives Outside",
+    "emergence": "spiritual",
+    "moniker": "⟦The Aiua:EN1:52a3ba⟧"
+  },
+  {
+    "slug": "the-speaker-for-the-dead",
+    "name": "The Speaker for the Dead",
+    "epithet": "truth as mourning",
+    "emergence": "spiritual",
+    "moniker": "⟦The Speaker for the Dead:EN1:d3e497⟧"
+  },
+  {
+    "slug": "the-hierarchy-of-foreignness",
+    "name": "The Hierarchy of Foreignness",
+    "epithet": "utlanning to varelse",
+    "emergence": "ethereal",
+    "moniker": "⟦The Hierarchy of Foreignness:EN1:9a9c34⟧"
+  },
+  {
+    "slug": "achilles-de-flandres",
+    "name": "Achilles de Flandres",
+    "epithet": "the charming monster",
+    "emergence": "natural",
+    "moniker": "⟦Achilles de Flandres:EN1:01f80b⟧"
+  }
+]

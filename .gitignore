@@ -1,0 +1,4 @@
+# .dlw badge artifacts are committed by design (carbon TIFF + silicon PNG).
+__pycache__/
+*.pyc
+.DS_Store

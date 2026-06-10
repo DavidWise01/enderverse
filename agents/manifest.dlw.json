@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Valentine Wiggin",
+  "universe": "EN1 · Enderverse",
+  "emergence": "spiritual",
+  "moniker": "⟦Valentine Wiggin:EN1:59be76⟧",
+  "carbon": "valentine-wiggin.carbon.tiff (TIFF)",
+  "silicon": "valentine-wiggin.silicon.png (PNG)",
+  "seal_sha256": "d9232c3aa675a2c50a2ccceb539e3dd704ba27282d8bb5d183cd602aeb84742c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
