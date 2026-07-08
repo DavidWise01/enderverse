@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 609
+slug  : enderverse
+seal  : b9e108e27fa25f7a4a4c7dee6339f014d2ed63864d09546f848db7ecd5c903f0
+prev  : 72b7eb5e4fbf31c4054f581bdf29d7512937b1e4a300a270e4896dbf22da7820
+link  : 9b6912048f19f5a5b73e15b04b91589510859ebb3cdda10417de0a258187a222
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
